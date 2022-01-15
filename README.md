@@ -1,7 +1,7 @@
 # Real-time Orange Trees
 Created by Peter Li and Ian Rackow as a final project for CS1230 Introduction to Computer Graphics.
 
-Check out the demo video [here](https://www.youtube.com/watch?v=YxA3U216O9E)!
+[Check out the demo video](https://www.youtube.com/watch?v=YxA3U216O9E)!
 
 ![CS1230: Real Time Orange Trees](orange1.png)
 
